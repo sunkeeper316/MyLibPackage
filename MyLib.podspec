@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MyLib'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'A short description of BloggerBird.'
   s.homepage         = 'https://github.com/sunkeeper316/MyLibPackage'
   s.license          = { :type => 'MIT', :file => 'README.md' }
