@@ -1,6 +1,6 @@
 
 Pod::Spec.new do |s|
-  s.name             = 'MyLib'
+  s.name             = 'MyLibPackage'
   s.version          = '1.0.2'
   s.summary          = 'A short description of BloggerBird.'
   s.homepage         = 'https://github.com/sunkeeper316/MyLibPackage'
